@@ -12,7 +12,7 @@ We implement the experiment with Python and Jupyter notebook.
 ## Getting Started
 
 ### Experimental environment
-* We implemented our experiment on Google Colab environment. As the limitation of GPU RAM for Google Colab free tier users, to successfully replicate the experiment, you have to subscribe Google Colab Pro+ and switch GPU class to premium with HIGH RAM by selecting Runtime -> Change runtime type.
+* We implemented our experiment on Google Colab environment. As the limitation of GPU RAM for Google Colab free tier users, to successfully replicate the experiment, you have to subscribe Google Colab Pro+ and switch GPU class to premium A100 GPU with HIGH RAM by selecting Runtime -> Change runtime type.
 * We use Google drive as the file system. Please ensure the google drive have the enough storage (~2.6GB)
 
 ### Package dependencies
