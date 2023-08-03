@@ -18,7 +18,7 @@ We implement the experiment with Python and Jupyter notebook.
 ### Package dependencies
 |                      | Packages                                                                                                            |
 |----------------------|---------------------------------------------------------------------------------------------------------------------|
-| Python               | dgl, iteration-utilities, sentencepiece, tojenizers, transformers, sentence-transformers, scipy, networkx, pingouin |
+| Python               | dgl, iteration-utilities, sentencepiece, tojenizers, transformers, sentence-transformers, scipy, networkx           |
 
 
 ### Replicate the experiment
