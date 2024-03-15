@@ -3,7 +3,7 @@
 This replication package is created for the paper titled "Don’t Forget to Change These Functions! Early Recommending Co-Changed Functions in Modern Code Review".
 
 ## Something you need to know before start
-Since the limitation of file size that allow to uploading to github, this repo only includes README. To re-generate the result in the paper, please follow "Replicate the experiment" section below. If the practioners want to train the model by themself, please download the entire replication package from [here](https://doi.org/10.5281/zenodo.10584858). The replication package includes all dataset and model used in the paper. 
+Since the limitation of file size that allow to uploading to github, this repo only includes README. To re-generate the result in the paper, please follow "Replicate the experiment" section below. If the practioners want to train the model by themself, please download the entire replication package from [here](https://doi.org/10.5281/zenodo.10584858). The replication package includes all dataset and model used in the paper. Note that it is possible that the package is not accessible via Zenodo. In this case, if use the [backup](https://drive.google.com/file/d/1BDcPtiUqEd82UY8hpLunOlNPoykZMDQ9/view?usp=drive_link)
 
 ## Description
 
